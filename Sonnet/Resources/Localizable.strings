@@ -1,0 +1,46 @@
+/* App */
+"app.name" = "Sonnet";
+
+/* Tab */
+"tab.home" = "账本";
+"tab.statistics" = "统计";
+"tab.settings" = "设置";
+
+/* Record */
+"record.expense" = "支出";
+"record.income" = "收入";
+"record.note.placeholder" = "备注（选填）";
+"record.done" = "完成";
+"record.cancel" = "取消";
+
+/* Categories - Expense */
+"category.food" = "餐饮";
+"category.transport" = "交通";
+"category.shopping" = "购物";
+"category.daily" = "日用";
+"category.entertain" = "娱乐";
+"category.medical" = "医疗";
+"category.education" = "教育";
+"category.comm" = "通讯";
+"category.other" = "其他";
+
+/* Categories - Income */
+"category.salary" = "工资";
+"category.parttime" = "兼职";
+"category.invest" = "理财";
+"category.gift" = "红包";
+
+/* Auth */
+"auth.sign_in_apple" = "通过 Apple 登录";
+"auth.guest" = "游客模式继续";
+"auth.sign_out" = "退出登录";
+
+/* Settings */
+"settings.account_book" = "账本管理";
+"settings.budget" = "月预算";
+"settings.ai" = "AI 设置";
+"settings.about" = "关于";
+
+/* Empty State */
+"empty.no_records" = "还没有记录";
+"empty.no_records.hint" = "点击右下角按钮，开始记账吧";
